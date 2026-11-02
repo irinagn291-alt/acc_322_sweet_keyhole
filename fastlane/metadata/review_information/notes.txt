@@ -1,0 +1,15 @@
+The app does not request camera, microphone, photos, location, notifications, or tracking. No permission dialogs appear, and there are no permission usage strings in the build settings.
+
+There is no login, no in-app purchase, no user-generated content, no account deletion flow, and no App Tracking Transparency prompt.
+
+Sweet Keyhole is a personal savings garden for people who want to put loose cash toward one named goal. Waiting cash sits in the Outer band until Season moves it into the trunk. When the trunk is full, the goal is ripe and the next one can be planted.
+
+No credentials or demo account are needed. Cold launch shows the introduction: Loose cash, one goal; Season the outer band; Watch the trunk grow. Tap Next through the pages, or Skip, then Start on the last page. If the garden is empty, tap Plant your first goal (or the Plant a goal control). On Goal, enter Name and Target, then Save. On Garden, type an Amount or drag the trunk to try an amount, tap Wedge to add waiting cash, Drop last to undo the latest add, and Season to move waiting cash into the trunk. Open Commits from the toolbar to see Latest commit and the commit list, or Season to return. Open Settings for Currency, Save a copy, Erase this garden, Contact, and Show the introduction again. When Trunk is full appears, tap Plant to name the next goal.
+
+Goals and cash stay on this device. Save a copy shares a file only if the reviewer chooses to, and Contact in Settings opens the support page.
+
+Behaviour does not differ by region.
+
+No licence or regulated-industry paperwork applies. This is a personal cash log, not a bank, broker, or investment product.
+
+The app is a personal log only and gives no recommendations. It shows no health, medical, or product-health information.
